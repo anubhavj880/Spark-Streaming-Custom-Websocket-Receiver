@@ -1,0 +1,60 @@
+Manifest-Version: 1.0
+Built-By: bizruntime40
+Class-Path: spark-core_2.11-2.2.0.jar avro-1.7.7.jar jackson-core-asl-
+ 1.9.13.jar jackson-mapper-asl-1.9.13.jar paranamer-2.3.jar commons-co
+ mpress-1.4.1.jar xz-1.0.jar avro-mapred-1.7.7-hadoop2.jar avro-ipc-1.
+ 7.7.jar avro-ipc-1.7.7-tests.jar chill_2.11-0.8.0.jar kryo-shaded-3.0
+ .3.jar minlog-1.3.0.jar objenesis-2.1.jar chill-java-0.8.0.jar xbean-
+ asm5-shaded-4.4.jar hadoop-client-2.6.5.jar hadoop-common-2.6.5.jar c
+ ommons-cli-1.2.jar xmlenc-0.52.jar commons-httpclient-3.1.jar commons
+ -io-2.4.jar commons-collections-3.2.2.jar commons-lang-2.6.jar common
+ s-configuration-1.6.jar commons-digester-1.8.jar commons-beanutils-1.
+ 7.0.jar commons-beanutils-core-1.8.0.jar protobuf-java-2.5.0.jar gson
+ -2.2.4.jar hadoop-auth-2.6.5.jar apacheds-kerberos-codec-2.0.0-M15.ja
+ r apacheds-i18n-2.0.0-M15.jar api-asn1-api-1.0.0-M20.jar api-util-1.0
+ .0-M20.jar curator-client-2.6.0.jar htrace-core-3.0.4.jar hadoop-hdfs
+ -2.6.5.jar jetty-util-6.1.26.jar xercesImpl-2.9.1.jar xml-apis-1.3.04
+ .jar hadoop-mapreduce-client-app-2.6.5.jar hadoop-mapreduce-client-co
+ mmon-2.6.5.jar hadoop-yarn-client-2.6.5.jar hadoop-yarn-server-common
+ -2.6.5.jar hadoop-mapreduce-client-shuffle-2.6.5.jar hadoop-yarn-api-
+ 2.6.5.jar hadoop-mapreduce-client-core-2.6.5.jar hadoop-yarn-common-2
+ .6.5.jar jaxb-api-2.2.2.jar stax-api-1.0-2.jar jackson-jaxrs-1.9.13.j
+ ar jackson-xc-1.9.13.jar hadoop-mapreduce-client-jobclient-2.6.5.jar 
+ hadoop-annotations-2.6.5.jar spark-launcher_2.11-2.2.0.jar spark-netw
+ ork-common_2.11-2.2.0.jar leveldbjni-all-1.8.jar jackson-annotations-
+ 2.6.5.jar spark-network-shuffle_2.11-2.2.0.jar spark-unsafe_2.11-2.2.
+ 0.jar jets3t-0.9.3.jar httpcore-4.3.3.jar httpclient-4.3.6.jar common
+ s-codec-1.8.jar activation-1.1.1.jar mx4j-3.0.2.jar mail-1.4.7.jar bc
+ prov-jdk15on-1.51.jar java-xmlbuilder-1.0.jar base64-2.3.8.jar curato
+ r-recipes-2.6.0.jar curator-framework-2.6.0.jar zookeeper-3.4.6.jar g
+ uava-16.0.1.jar javax.servlet-api-3.1.0.jar commons-lang3-3.5.jar com
+ mons-math3-3.4.1.jar jsr305-1.3.9.jar slf4j-api-1.7.16.jar jul-to-slf
+ 4j-1.7.16.jar jcl-over-slf4j-1.7.16.jar log4j-1.2.17.jar slf4j-log4j1
+ 2-1.7.16.jar compress-lzf-1.0.3.jar snappy-java-1.1.2.6.jar lz4-1.3.0
+ .jar RoaringBitmap-0.5.11.jar commons-net-2.2.jar scala-library-2.11.
+ 8.jar json4s-jackson_2.11-3.2.11.jar json4s-core_2.11-3.2.11.jar json
+ 4s-ast_2.11-3.2.11.jar scalap-2.11.0.jar scala-compiler-2.11.0.jar sc
+ ala-xml_2.11-1.0.1.jar scala-parser-combinators_2.11-1.0.1.jar jersey
+ -client-2.22.2.jar javax.ws.rs-api-2.0.1.jar hk2-api-2.4.0-b34.jar hk
+ 2-utils-2.4.0-b34.jar aopalliance-repackaged-2.4.0-b34.jar javax.inje
+ ct-2.4.0-b34.jar hk2-locator-2.4.0-b34.jar javassist-3.18.1-GA.jar je
+ rsey-common-2.22.2.jar javax.annotation-api-1.2.jar jersey-guava-2.22
+ .2.jar osgi-resource-locator-1.0.1.jar jersey-server-2.22.2.jar jerse
+ y-media-jaxb-2.22.2.jar validation-api-1.1.0.Final.jar jersey-contain
+ er-servlet-2.22.2.jar jersey-container-servlet-core-2.22.2.jar netty-
+ all-4.0.43.Final.jar netty-3.9.9.Final.jar stream-2.7.0.jar metrics-c
+ ore-3.1.2.jar metrics-jvm-3.1.2.jar metrics-json-3.1.2.jar metrics-gr
+ aphite-3.1.2.jar jackson-databind-2.6.5.jar jackson-core-2.6.5.jar ja
+ ckson-module-scala_2.11-2.6.5.jar scala-reflect-2.11.7.jar jackson-mo
+ dule-paranamer-2.6.5.jar ivy-2.4.0.jar oro-2.0.8.jar pyrolite-4.13.ja
+ r py4j-0.10.4.jar spark-tags_2.11-2.2.0.jar commons-crypto-1.0.0.jar 
+ unused-1.0.0.jar spark-streaming_2.11-2.2.0.jar websocket-client-9.4.
+ 7.v20170914.jar jetty-client-9.4.7.v20170914.jar jetty-http-9.4.7.v20
+ 170914.jar jetty-xml-9.4.7.v20170914.jar jetty-util-9.4.7.v20170914.j
+ ar jetty-io-9.4.7.v20170914.jar websocket-common-9.4.7.v20170914.jar 
+ websocket-api-9.4.7.v20170914.jar
+Build-Jdk: 1.8.0_112
+Created-By: Maven Integration for Eclipse
+Main-Class: com.spark_reciver.SparkStreamingWebsocketReceiver.CustomSp
+ arkSocketReceiverApp
+
